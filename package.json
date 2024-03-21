@@ -1,0 +1,25 @@
+{
+  "name": "vue-responsive-components-mixin",
+  "version": "1.2.0",
+  "description": "A Vue mixin for making components responsive to window size changes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/atilamukh/vue-responsive-components-mixin"
+  },
+  "peerDependencies": {
+    "vue": ">=2.6.0",
+    "lodash.debounce": ">=4.0.8"
+  },
+  "keywords": [
+    "vue",
+    "responsive",
+    "mixin",
+    "window size"
+  ],
+  "author": "",
+  "license": "MIT"
+}
